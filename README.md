@@ -5,24 +5,17 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ### Machine Learning Project
+- 🌱 I’m currently learning best Practices of ### Machine Learning, Python and Data Science
+- 👯 I’m looking to collaborate on ### Machine Learning and Python Project
+- 🤔 I’m looking for help with on Computer Vision and Web Development Project
+- 💬 Ask me about ### ML, Python, CNN, ANN.
+- 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/mohitkumarverma176/)
+- 😄 Pronouns: Whatever You Like
+- ⚡ Fun fact: I need somthing to eat while working.
 -->
 
-### About Me
-Post Graduate from Madan Mohan Malaviya university of Technology, Gorakhpur. Looking for opportunities in Machine Learning, Python, and Data Science.
-Apart from professional background, i love to teach Python, Machine Learning nand Data Science to the students.
 
-### What I do for fun?
-- I love playing cricket.
-- I love bike riding.
 
-[My Linkedin Profile](https://www.linkedin.com/in/mohitkumarverma176/)
 
 
