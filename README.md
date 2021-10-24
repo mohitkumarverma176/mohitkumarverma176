@@ -2,7 +2,7 @@
 
 I completed post-graduation from Madan Moahan Malaviya University of Technology. My main intrest in Machine Learning, Python, and Data Science.
 
-* 🔭 I’m currently working as ***Python Developer intern*** in ***Gnani.ai***
+* 🔭 I’m currently working as ***Full Stack Developer*** in ***Gnani.ai***
 * 🌱 I’m currently Working on Dashboard and chatbots using   ***Python, Flask, MongoDB, FastAPI, Linux***
 * 👯 I’m looking to collaborate on ***Flask and Django Applcation*** ,  ***Machine Learning Project*** and ***Data Sciernce***.
 * 🤔 I’m looking for help with on NLP project
