@@ -9,7 +9,7 @@ I completed my post-graduation from Madan Mohan Malaviya University of Technolog
 * 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/mohitkumarverma176/) or you can directly contact me on [mohitkumarverma176@gmail.com]
 * 😄 Pronouns: Whatever You Like
 * ⚡ Fun fact: Enjoy every work.
-* You can contact me on ***7704982390*** and ***mohitkumarverma176@gmail.com***
+* You can contact me on ***7704982390*** .
 
 
 
