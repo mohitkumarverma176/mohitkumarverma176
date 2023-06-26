@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mohit Kumar Verma
 
-I completed post-graduation from Madan Moahan Malaviya University of Technology. My main intrest in Machine Learning, Python, and Data Science.
+I completed my post-graduation from Madan Mohan Malaviya University of Technology. I am passionate about Python backend development or Completly in Python.
 
 * 🔭 I’m currently working as ***Associate Software Engineer*** in ***Energy Exemplar***
 * 🌱 I’m currently Working on Dashboard and chatbots using   ***Python, Flask, MongoDB, FastAPI, Linux***
@@ -8,7 +8,8 @@ I completed post-graduation from Madan Moahan Malaviya University of Technology.
 * 💬 Ask me about  Flask, Python, MongoDB, pandas, SQL
 * 📫 How to reach me: [My Linkedin Profile](https://www.linkedin.com/in/mohitkumarverma176/) or you can directly contact me on [mohitkumarverma176@gmail.com]
 * 😄 Pronouns: Whatever You Like
-* ⚡ Fun fact: I need somthing to eat while working.
+* ⚡ Fun fact: Enjoy every work.
+* You can contact me on ***7704982390*** and ***mohitkumarverma176@gmail.com***
 
 
 
